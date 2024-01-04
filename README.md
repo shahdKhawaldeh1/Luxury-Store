@@ -1,6 +1,4 @@
 # Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ![Desktop - 1 (1)](https://github.com/shahdKhawaldeh1/Luxury-Store/assets/109172402/2284b839-dfb6-4e4b-9462-8f2725504b5f)
 
 ## Available Scripts
